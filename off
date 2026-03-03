@@ -1,15 +1,15 @@
-global audio_performance_mode 
-system bass_boost_enabled 
-system audio_hifi_enabled 
-global dolby_atmos_enabled 
-global dolby_atmos_plus_enabled 
-global dolby_vision_enabled 
-global dolby_atmos_auto_mode 
-global spatial_audio_enabled 
-global vivid_audio_enabled 
-system audio_virtualizer_enabled 
-global perf_dolby_atmos_enabled 
-system hi-res_audio_enabled 
-global persist.audio.vocal.32bit 
-global persist.vendor.audio.format 
-global 32-bit_float_enabled 
+global dolby_atmos_support 0
+global dolby_atmos_enabled 0
+global dolby_atmos_plus_enabled 0
+global dolby_vision_enabled 0
+global dolby_vision_plus_enabled 0
+global dolby_atmos_auto_mode 0
+global dolby_server_enabled 0
+global dolby_service_enabled 0
+global dolby_full_enabled 0
+global performance_dolby_atmos_enabled 0
+global hi_res_lossless_support 
+global hi_res_lossless_enabled 0
+global hi_res_lossless_output 0
+global spatial_audio_enabled 0
+global 32bit_float_support 0
