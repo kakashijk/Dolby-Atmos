@@ -1,6 +1,6 @@
 id=Dolby-Atmos
 name=Dolby Atmos
-description=Dolby Atmos, module Setbox enables 3D spatial surround audio optimization to create more vivid, realistic, and immersive sound effects.
+description=Dolby Atmos, a module of the Setbox, optimizes 3D surround sound to create a realistic and high-quality audio experience, complemented by Dolby Vision super-visual mode.
 author=kakashijk
 version=v1.0.0
 versionCode=1
